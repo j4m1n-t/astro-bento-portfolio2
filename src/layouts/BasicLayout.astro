@@ -26,26 +26,25 @@ const schema =
     ? {
         "@context": "http://schema.org",
         "@type": "Person",
-        name: "Gianmarco",
-        url: "https://gianmarco.xyz",
+        name: "J4m1n",
+        url: "https://j4m1n.me",
         sameAs: [
-          "https://www.linkedin.com/in/gianmarco-cavallo",
-          "https://github.com/Ladvace",
+          "https://github.com/j4m1n-t",
         ],
-        image: "https://gianmarco.xyz/og-image.png",
-        jobTitle: "Freelance Frontend Developer",
+        image: "https://j4m1n.me/og-image.png",
+        jobTitle: "Freelance Developer",
         worksFor: {
           "@type": "Organization",
           name: "Self-Employed",
           address: {
             "@type": "PostalAddress",
-            addressLocality: "Italy",
-            addressCountry: "IT",
+            addressLocality: "OK",
+            addressCountry: "US",
           },
         },
         nationality: {
           "@type": "Country",
-          name: "Italy",
+          name: "United States",
         },
       }
     : {
@@ -53,26 +52,25 @@ const schema =
         "@type": "BlogPosting",
         mainEntityOfPage: {
           "@type": "WebPage",
-          "@id": `https://gianmarco.xyz/blog/${slug}`,
+          "@id": `https://j4m1n.me/blog/${slug}`,
         },
         headline: frontmatter?.title || title,
         description: frontmatter?.description || title,
-        image: "https://gianmarco.xyz/og-image.png", //TODO: dynamic
+        image: "https://j4m1n.me/og-image.png", //TODO: dynamic
         author: {
           "@type": "Person",
-          name: "Gianmarco",
-          url: "https://gianmarco.xyz",
+          name: "J4m1n",
+          url: "https://j4m1n.me",
           sameAs: [
-            "https://www.linkedin.com/in/gianmarco-cavallo",
-            "https://github.com/Ladvace",
+            "https://github.com/j4m1n-t",
           ],
         },
         publisher: {
           "@type": "Organization",
-          name: "Gianmarco",
+          name: "J4m1n",
           logo: {
             "@type": "ImageObject",
-            url: "https://gianmarco.xyz/og-image.png",
+            url: "https://j4m1n.me/og-image.png",
           },
         },
         datePublished: frontmatter?.pubDate || new Date().toISOString(),
@@ -97,7 +95,7 @@ const schema =
     <meta property="og:url" content={Astro.url.origin} />
     <meta
       property="og:image"
-      content={image || "https://gianmarco.xyz/og-image.png"}
+      content={image || "https://j4m1n.me/og-image.png"}
     />
     <!-- Basic Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -105,7 +103,7 @@ const schema =
     <meta name="twitter:description" content={description} />
     <meta
       name="twitter:image"
-      content={image || "https://gianmarco.xyz/og-image.png"}
+      content={image || "https://j4m1n.me/og-image.png"}
     />
 
     <link rel="preconnect" href="https://cdn.fontshare.com" />
