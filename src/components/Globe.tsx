@@ -6,7 +6,7 @@ const GlobeComponent = () => {
   let mapContainer: HTMLDivElement | undefined;
 
   const visitedCountries = [
-    "United States",
+    "USA",
   ];
 
   onMount(() => {
