@@ -1,6 +1,6 @@
 export const LINKS = {
   github: "https://github.com/j4m1n-t",
-  discord: "https://discordapp.com/users/163300027618295808",
+  discord: "https://discordapp.com/users/jamin_thompson_97890",
   email: "mailto:j.thompson@j4m1n.me",
 };
 
