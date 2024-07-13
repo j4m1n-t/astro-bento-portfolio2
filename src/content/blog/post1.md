@@ -1,18 +1,17 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
 title: "Hello, World"
-description: "this is a post example"
-pubDate: 2023-01-21
+description: "the start of something great"
+pubDate: 07-12-2024
 category: "intro"
 ---
 
-# Hi there!
+# Hello World!
 
-This Markdown file creates a page at `your-domain.com/post1/`
+This simple sentence is the start of many a programmers journies. For me it was Python I used it at work for data entry and data manipulation. Have you seen how long it takes to open an excel spreadsheet with thousands of rows of data? This small irritation was enough to push me to learn Python enough to perform the duties I needed to. 
 
-It probably isn't styled much, but Markdown does support:
+Later I found that it was actually *fun* to code. I decided to work with Django and flask to build a few webpages that I self-hosted. I then moved into using Go as my language of choice. I primarily built desktop applications using the Fyne framework. I still use Go for most "general" programming when I can just because of the garbage collecting.
 
-- **bold** and _italics._
-- lists
-- [links](https://astro.build)
-- and more!
+Next up was Rust. To be frank I tried Rust on and off a few times but handling memory was a difficult concept for me. I can work my way around it better now but much prefer a "garbage collector" language 
+
+As for JavaScript and TypeScript they just come with the territory of web development.
