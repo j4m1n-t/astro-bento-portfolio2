@@ -6,8 +6,7 @@ pubDate: 07-11-2024
 category: "intro"
 ---
 
-# Part 1
-# My Programming Journey: Exploring Different Languages
+# Part 1: My Programming Journey: Exploring Different Languages
 
 **Hello, World!**
 This simple sentence marks the start of many programmers' journeys. For me, it was Python. I used it at work for data entry and manipulation. Have you ever seen how long it takes to open an Excel spreadsheet with thousands of rows of data? This small irritation was enough to push me to learn Python sufficiently to perform the tasks I needed.
