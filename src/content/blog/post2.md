@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
-title: "Hello, World"
-description: "this is a post example"
+title: "Hello, World! pt. 2"
+description: "continuance"
 pubDate: 07-12-2024
 category: "intro"
 ---
