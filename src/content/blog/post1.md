@@ -1,12 +1,14 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
-title: "Hello, World"
+title: "Hello, World!"
 description: "the start of something great"
-pubDate: 07-12-2024
+pubDate: 07-11-2024
 category: "intro"
 ---
 
-# Hello World!
+# Hello, World!
+## Part 1
+
 
 This simple sentence is the start of many a programmers journies. For me it was Python I used it at work for data entry and data manipulation. Have you seen how long it takes to open an excel spreadsheet with thousands of rows of data? This small irritation was enough to push me to learn Python enough to perform the duties I needed to. 
 
@@ -15,3 +17,5 @@ Later I found that it was actually *fun* to code. I decided to work with Django 
 Next up was Rust. To be frank I tried Rust on and off a few times but handling memory was a difficult concept for me. I can work my way around it better now but much prefer a "garbage collector" language 
 
 As for JavaScript and TypeScript they just come with the territory of web development.
+
+Stay tuned for part 2 where I discuss future plans and why I decided to still code on the side. 
