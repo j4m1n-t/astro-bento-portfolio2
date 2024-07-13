@@ -8,13 +8,12 @@ category: "intro"
 
 # Part 1
 
+This simple sentence marks the start of many programmers' journeys. For me, it was Python. I used it at work for data entry and manipulation. Have you ever seen how long it takes to open an Excel spreadsheet with thousands of rows of data? This small irritation was enough to push me to learn Python sufficiently to perform the tasks I needed.
 
-This simple sentence is the start of many a programmers journies. For me it was Python I used it at work for data entry and data manipulation. Have you seen how long it takes to open an excel spreadsheet with thousands of rows of data? This small irritation was enough to push me to learn Python enough to perform the duties I needed to. 
+Later, I discovered that coding was actually enjoyable. I decided to work with Django and Flask to build a few self-hosted webpages. I then transitioned to using Go as my language of choice. Primarily, I developed desktop applications using the Fyne framework. I still use Go for most "general" programming when possible, primarily due to its garbage collection capabilities.
 
-Later I found that it was actually *fun* to code. I decided to work with Django and flask to build a few webpages that I self-hosted. I then moved into using Go as my language of choice. I primarily built desktop applications using the Fyne framework. I still use Go for most "general" programming when I can just because of the garbage collecting.
+Next, I explored Rust. To be frank, I tried Rust on and off a few times, but handling memory was a challenging concept for me. I can navigate it better now, but I still prefer languages with a garbage collector.
 
-Next up was Rust. To be frank I tried Rust on and off a few times but handling memory was a difficult concept for me. I can work my way around it better now but much prefer a "garbage collector" language 
+As for JavaScript and TypeScript, they are simply part and parcel of web development.
 
-As for JavaScript and TypeScript they just come with the territory of web development.
-
-Stay tuned for part 2 where I discuss future plans and why I decided to still code on the side. 
+Stay tuned for part 2, where I will discuss future plans and why I have chosen to continue coding on the side.
