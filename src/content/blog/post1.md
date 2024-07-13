@@ -6,8 +6,7 @@ pubDate: 07-11-2024
 category: "intro"
 ---
 
-# Hello, World!
-## Part 1
+# Part 1
 
 
 This simple sentence is the start of many a programmers journies. For me it was Python I used it at work for data entry and data manipulation. Have you seen how long it takes to open an excel spreadsheet with thousands of rows of data? This small irritation was enough to push me to learn Python enough to perform the duties I needed to. 
