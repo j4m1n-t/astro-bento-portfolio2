@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
-title: "Hello, World!"
+title: "Hello, World! pt. 1"
 description: "the start of something great"
 pubDate: 07-11-2024
 category: "intro"
